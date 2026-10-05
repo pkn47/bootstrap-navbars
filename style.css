@@ -1,0 +1,22 @@
+/* Navbar 1: The Boardroom Kailua */
+
+.boardroom-bar {
+  background-color: #133B40;
+}
+
+.boardroom-bar a {
+  color: white;
+}
+
+.boardroom-bar .navbar-brand {
+  font-size: 1.5rem;
+}
+
+.boardroom-bar .navbar {
+  --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.22), rgba(255, 255, 255, 0.05));
+}
+
+.boardroom-bar .logo {
+  height: 36px;
+  width: auto;
+}
